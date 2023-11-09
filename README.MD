@@ -2,4 +2,4 @@ This project focusing on understanding, analyzing, and predicting OSA severity u
 
 Mainly applying machine learning techniques, particularly regression and classification methods, to analyze and predict the severity of Obstructive Sleep Apnea (OSA) based on collected patient data. Using some key data science components for a project consiting of: 
 
-Data Description and Preparation, Exploratory Data Analysis (EDA), Regression Analysis, Classification Analysis
+Data Description and Preparation, Exploratory Data Analysis (EDA), Regression Analysis, Classification Analysis using various regression and classification algorithms. 
